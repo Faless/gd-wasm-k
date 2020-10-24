@@ -1,0 +1,5 @@
+[gd_resource type="GDNativeLibrary" format=2]
+
+[resource]
+entry/JavaScript.web = "res://lib/test.wasm"
+dependency/JavaScript.web = [  ]
